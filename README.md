@@ -7,3 +7,6 @@ img = cv2.imread("write the path of photo")
 
 #.cfg and .weights file's path is written like that:
 model = cv2.dnn.readNetFromDarknet("absolute path of .cfg","absolute path of .weights")
+
+.cfg and .weights:
+https://drive.google.com/drive/folders/16MsdDvPuF6CxFd0vW2VYya6e5cqZJjZI
